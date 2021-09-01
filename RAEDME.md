@@ -21,12 +21,12 @@
 	+ Para la fase de compilación vamos a usar el comando `mvn compile` que como su nombre lo indica solo realiza la compilacion de nuestro proyecto.
 	+ El resultado de la ejecucion se muestra acontinuacion: 
 	
-	![](Resources/resultado mvn compile.png)
+	![](https://github.com/Pokecris200/LAB3CVDS/blob/master/Resources/resultado%20mvn%20compile.png)
 	
 	+ Para la fase de test ejecutaremos el comando `mvn test` para que como su nombre lo indica nos ejecutes los test de tengamos.
 	+ El resultado de la ejecucion se muestra acontinuacion:
 	
-	![](Resources/resultado mvn test.png)
+	![](https://github.com/Pokecris200/LAB3CVDS/blob/master/Resources/resultado%20mvn%20test.png)
 	
 ## Biliografia
 
